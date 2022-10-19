@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Cardiac Risk Assessment</string>
+    <string name="questionAge">Qual a sua idade?</string>
+    <string name="questionGender">Qual o seu gênero?</string>
+    <string name="questionWeight">Qual o seu peso?</string>
+    <string name="questionSmoker">Você fuma? Quantos cigarros?</string>
+    <string name="questionExercise">Você pratica atividade física? Com qual intensidade?</string>
+    <string name="questionCholesterol">Como está o seu colesterol?</string>
+    <string name="questionHistoric">E o histórico de doenças cardíacas?</string>
+    <string name="questionPressure">Como está a sua pressão?</string>
+
+    <string name="ageAnswer1">10 a 20 anos</string>
+    <string name="ageAnswer2">21 a 30 anos</string>
+    <string name="ageAnswer3">31 a 40 anos</string>
+    <string name="ageAnswer4">41 a 50 anos</string>
+    <string name="ageAnswer5">51 a 60 anos</string>
+    <string name="ageAnswer6">Acima de 61 anos</string>
+
+    <string name="genderAnswer1">Feminino c/ menos de 40 anos</string>
+    <string name="genderAnswer2">Feminino de 40 a 50 anos</string>
+    <string name="genderAnswer3">Feminino c/ mais de 50 anos</string>
+    <string name="genderAnswer4">Masculino</string>
+    <string name="genderAnswer5">Masculino de baixa estatura</string>
+    <string name="genderAnswer6">Masculino de baixa estatura e calvo</string>
+
+    <string name="weightAnswer1">Inferior a 2,3Kg do peso normal</string>
+    <string name="weightAnswer2">Menos de 2,3 a mais de 2,3Kg do peso normal</string>
+    <string name="weightAnswer3">De 2,4 a 9,0Kg acima do peso normal</string>
+    <string name="weightAnswer4">De 9,1 a 15,9Kg acima do peso normal</string>
+    <string name="weightAnswer5">De 16 a 22,9Kg acima do peso normal</string>
+    <string name="weightAnswer6">Mais de 23Kg acima do peso normal</string>
+
+    <string name="exerciseAnswer1">Esforço profissional e recreativo intenso</string>
+    <string name="exerciseAnswer2">Esforço profissional e recreativo moderado</string>
+    <string name="exerciseAnswer3">Trabalho sedentário e esforço recreativo intenso</string>
+    <string name="exerciseAnswer4">Trabalho sedentário e esforço recreativo moderado</string>
+    <string name="exerciseAnswer5">Trabalho sedentário e esforço recreativo leve</string>
+    <string name="exerciseAnswer6">Ausência completa de qualquer exercício</string>
+
+    <string name="smokerAnswer1">Não fumante</string>
+    <string name="smokerAnswer2">Charuto e/ou cachimbo</string>
+    <string name="smokerAnswer3">10 cigarros ou menos por dia</string>
+    <string name="smokerAnswer4">11 a 20 cigarros por dia</string>
+    <string name="smokerAnswer5">21 a 30 cigarros por dia</string>
+    <string name="smokerAnswer6">Mais de 31 cigarros por dia</string>
+
+    <string name="pressureAnswer1">Sistólica de 100 a 119 mmHg</string>
+    <string name="pressureAnswer2">Sistólica de 120 a 139 mmHg</string>
+    <string name="pressureAnswer3">Sistólica de 140 a 159 mmHg</string>
+    <string name="pressureAnswer4">Sistólica de 160 a 179 mmHg</string>
+    <string name="pressureAnswer5">Sistólica de 180 a 199 mmHg</string>
+    <string name="pressureAnswer6">Sistólica de 200 mmHg ou mais</string>
+
+    <string name="historicAnswer1">Nenhuma história conhecida de cardiopatia</string>
+    <string name="historicAnswer2">1 parente c/ doença cardiaca e mais de 60 anos</string>
+    <string name="historicAnswer3">2 parentes c/ doença cardiaca e mais de 60 anos</string>
+    <string name="historicAnswer4">1 parente c/ doença cardiaca e menos de 60 anos</string>
+    <string name="historicAnswer5">2 parente c/ doença cardiaca e menos de 60 anos</string>
+    <string name="historicAnswer6">3 parente c/ doença cardiaca e menos de 60 anos</string>
+
+    <string name="cholesterol1">Abaixo de 180 ou a dieta não contém gorduras animais</string>
+    <string name="cholesterol2">De 181 a 205 ou a dieta contém 10% de gorduras animais</string>
+    <string name="cholesterol3">De 206 a 230 ou a dieta contém 20% de gorduras animais</string>
+    <string name="cholesterol4">De 231 a 255 ou a dieta contém 30% de gorduras animais</string>
+    <string name="cholesterol5">De 256 a 280 ou a dieta contém 40% de gorduras animais</string>
+    <string name="cholesterol6">Acima de 281 ou a dieta contém 50% de gorduras animais</string>
+
+    <string name="score">Sua pontuação:</string>
+    <string name="result1">"Sem risco - de 6 a 11"</string>
+    <string name="result2">"Risco abaixo da média - de 12 a 17"</string>
+    <string name="result3">"Risco médio - de 18 a 24"</string>
+    <string name="result4">"Risco moderado - de 25 a 31"</string>
+    <string name="result5">"Risco alto - de 32 a 40"</string>
+    <string name="result6">"Risco muito alto - 41 a 62"</string>
+    <string name="result7">"Resposta inválida, desculpe algum erro aconteceu!"</string>
+</resources>
